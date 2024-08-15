@@ -1,0 +1,14 @@
+release/main.o
+release/mainwindow.o
+release/custitlebar.o
+release/newproject.o
+release/selecttemplate.o
+release/restore.o
+release/tarpack.o
+release/qrc_src.o
+release/moc_mainwindow.o
+release/moc_custitlebar.o
+release/moc_newproject.o
+release/moc_selecttemplate.o
+release/moc_restore.o
+release/moc_tarpack.o

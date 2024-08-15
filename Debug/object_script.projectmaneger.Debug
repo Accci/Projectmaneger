@@ -1,0 +1,14 @@
+debug/main.o
+debug/mainwindow.o
+debug/custitlebar.o
+debug/newproject.o
+debug/selecttemplate.o
+debug/restore.o
+debug/tarpack.o
+debug/qrc_src.o
+debug/moc_mainwindow.o
+debug/moc_custitlebar.o
+debug/moc_newproject.o
+debug/moc_selecttemplate.o
+debug/moc_restore.o
+debug/moc_tarpack.o

@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sources/big.png</file>
+        <file>sources/copy.png</file>
+        <file>sources/detail.png</file>
+        <file>sources/edit.png</file>
+        <file>sources/ico.png</file>
+        <file>sources/list.png</file>
+        <file>sources/new.png</file>
+        <file>sources/openFile.png</file>
+        <file>sources/quit.png</file>
+        <file>sources/remove.png</file>
+        <file>sources/restore.png</file>
+        <file>sources/run.png</file>
+        <file>sources/small.png</file>
+        <file>sources/study.png</file>
+        <file>sources/superbig.png</file>
+        <file>sources/tar.png</file>
+        <file>sources/winico.ico</file>
+        <file>sources/close.png</file>
+        <file>sources/max.png</file>
+        <file>sources/min.png</file>
+        <file>sources/create.png</file>
+        <file>sources/temp.png</file>
+        <file>sources/temp2.png</file>
+        <file>sources/temp3.png</file>
+        <file>sources/temp4.png</file>
+        <file>sources/temp5.png</file>
+        <file>sources/temp6.png</file>
+        <file>sources/temp7.png</file>
+        <file>sources/temp8.png</file>
+        <file>sources/temp10.png</file>
+        <file>small.qml</file>
+        <file>big.qml</file>
+        <file>sources/pic1.png</file>
+        <file>sources/pic2.png</file>
+        <file>sources/pic3.png</file>
+        <file>sources/pic4.png</file>
+        <file>sources/pic5.png</file>
+        <file>superBig.qml</file>
+    </qresource>
+</RCC>
